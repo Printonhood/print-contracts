@@ -1,0 +1,9 @@
+# build output
+out/
+cache/
+# local deploy logs and keys — never commit
+broadcast/
+.deploy/
+.env
+.env.*
+*.key
